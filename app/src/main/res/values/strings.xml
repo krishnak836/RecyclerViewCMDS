@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task2App</string>
+    <string name="delete">Delete</string>
+    <string name="enter">Enter</string>
+    <string name="add">Add</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="swap">Swap</string>
+</resources>
